@@ -17,3 +17,6 @@ function rgb(r, g, b) {
 ```
 
 [KATA](https://www.codewars.com/kata/513e08acc600c94f01000001/javascript)
+<br>
+
+[解題](https://medium.com/@juneee/codewars-rgb-to-hex-conversion-javascript-9dd34ec2cda1)
